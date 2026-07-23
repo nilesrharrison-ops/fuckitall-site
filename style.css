@@ -20,7 +20,7 @@ body {
   color: var(--ink);
   font-family: var(--sans);
 
-  background-image: url('../matto.jpg');
+  background-image: url('matto.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
